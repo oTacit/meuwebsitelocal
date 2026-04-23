@@ -1,0 +1,35 @@
+body {
+    background-color: #262527;
+    color: #fff;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.robert {
+    background-color: #4f5050;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+    font-size: 26px;
+}
+
+.menu {
+    background-color: #4f5050;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer {
+    background-color: #373838;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+    font-size: 12px;
+}
