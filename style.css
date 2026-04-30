@@ -4,7 +4,7 @@ body {
     font-family: "Comic Sans MS", sans-serif;
 }
 
-.robert {
+.cabeca {
     background-color: #4f5050;
     color: #fff;
     padding: 1px;
@@ -13,7 +13,7 @@ body {
 }
 
 .menu {
-    background-color: #4f5050;
+    background-color: #373838;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -26,7 +26,17 @@ body {
     margin: 0 10px;
 }
 
-footer {
+.linkbranco {
+    color: #fff;
+    text-decoration: none;
+}
+
+.linkbranco:hover {
+    text-decoration: underline;
+}
+
+
+.barra {
     background-color: #373838;
     color: #fff;
     padding: 1px;
